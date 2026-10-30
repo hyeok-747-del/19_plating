@@ -1,0 +1,250 @@
+[
+  {
+    "query": "대구광역시 동구 아양로 207",
+    "candidate": {
+      "address": {
+        "address_name": "대구 동구 신암동 36-1",
+        "b_code": "2714010100",
+        "h_code": "2714054100",
+        "main_address_no": "36",
+        "mountain_yn": "N",
+        "region_1depth_name": "대구",
+        "region_2depth_name": "동구",
+        "region_3depth_h_name": "신암5동",
+        "region_3depth_name": "신암동",
+        "sub_address_no": "1",
+        "x": "128.636075097087",
+        "y": "35.8868105755475"
+      },
+      "address_name": "대구 동구 아양로 207",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "대구 동구 아양로 207",
+        "building_name": "동구청",
+        "main_building_no": "207",
+        "region_1depth_name": "대구",
+        "region_2depth_name": "동구",
+        "region_3depth_name": "신암동",
+        "road_name": "아양로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "128.636075097087",
+        "y": "35.8868105755475",
+        "zone_no": "41185"
+      },
+      "x": "128.636075097087",
+      "y": "35.8868105755475"
+    },
+    "regions": [
+      {
+        "region_type": "B",
+        "code": "2714010100",
+        "address_name": "대구광역시 동구 신암동",
+        "region_1depth_name": "대구광역시",
+        "region_2depth_name": "동구",
+        "region_3depth_name": "신암동",
+        "region_4depth_name": "",
+        "x": 128.61633212220733,
+        "y": 35.88427378646003
+      },
+      {
+        "region_type": "H",
+        "code": "2714054100",
+        "address_name": "대구광역시 동구 신암5동",
+        "region_1depth_name": "대구광역시",
+        "region_2depth_name": "동구",
+        "region_3depth_name": "신암5동",
+        "region_4depth_name": "",
+        "x": 128.6330901480641,
+        "y": 35.8897530432055
+      }
+    ],
+    "expectedEligible": true
+  },
+  {
+    "query": "대구광역시 중구 국채보상로139길 1",
+    "candidate": {
+      "address": {
+        "address_name": "대구 중구 동인동2가 177-4",
+        "b_code": "2711010200",
+        "h_code": "2711051700",
+        "main_address_no": "177",
+        "mountain_yn": "N",
+        "region_1depth_name": "대구",
+        "region_2depth_name": "중구",
+        "region_3depth_h_name": "동인동",
+        "region_3depth_name": "동인동2가",
+        "sub_address_no": "4",
+        "x": "128.60615767581",
+        "y": "35.8693256621114"
+      },
+      "address_name": "대구 중구 국채보상로139길 1",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "대구 중구 국채보상로139길 1",
+        "building_name": "중구청",
+        "main_building_no": "1",
+        "region_1depth_name": "대구",
+        "region_2depth_name": "중구",
+        "region_3depth_name": "동인동2가",
+        "road_name": "국채보상로139길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "128.60615767581",
+        "y": "35.8693256621114",
+        "zone_no": "41908"
+      },
+      "x": "128.60615767581",
+      "y": "35.8693256621114"
+    },
+    "regions": [
+      {
+        "region_type": "B",
+        "code": "2711010200",
+        "address_name": "대구광역시 중구 동인동2가",
+        "region_1depth_name": "대구광역시",
+        "region_2depth_name": "중구",
+        "region_3depth_name": "동인동2가",
+        "region_4depth_name": "",
+        "x": 128.6044441197827,
+        "y": 35.86870289704973
+      },
+      {
+        "region_type": "H",
+        "code": "2711051700",
+        "address_name": "대구광역시 중구 동인동",
+        "region_1depth_name": "대구광역시",
+        "region_2depth_name": "중구",
+        "region_3depth_name": "동인동",
+        "region_4depth_name": "",
+        "x": 128.60914403400176,
+        "y": 35.8678902715814
+      }
+    ],
+    "expectedEligible": true
+  },
+  {
+    "query": "대구광역시 수성구 파동로22길 7",
+    "candidate": {
+      "address": {
+        "address_name": "대구 수성구 파동 191-25",
+        "b_code": "2726011000",
+        "h_code": "2726063000",
+        "main_address_no": "191",
+        "mountain_yn": "N",
+        "region_1depth_name": "대구",
+        "region_2depth_name": "수성구",
+        "region_3depth_h_name": "파동",
+        "region_3depth_name": "파동",
+        "sub_address_no": "25",
+        "x": "128.617367939861",
+        "y": "35.8134477705102"
+      },
+      "address_name": "대구 수성구 파동로22길 7",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "대구 수성구 파동로22길 7",
+        "building_name": "",
+        "main_building_no": "7",
+        "region_1depth_name": "대구",
+        "region_2depth_name": "수성구",
+        "region_3depth_name": "파동",
+        "road_name": "파동로22길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "128.617367939861",
+        "y": "35.8134477705102",
+        "zone_no": "42233"
+      },
+      "x": "128.617367939861",
+      "y": "35.8134477705102"
+    },
+    "regions": [
+      {
+        "region_type": "B",
+        "code": "2726011000",
+        "address_name": "대구광역시 수성구 파동",
+        "region_1depth_name": "대구광역시",
+        "region_2depth_name": "수성구",
+        "region_3depth_name": "파동",
+        "region_4depth_name": "",
+        "x": 128.61740294556878,
+        "y": 35.81337908256427
+      },
+      {
+        "region_type": "H",
+        "code": "2726063000",
+        "address_name": "대구광역시 수성구 파동",
+        "region_1depth_name": "대구광역시",
+        "region_2depth_name": "수성구",
+        "region_3depth_name": "파동",
+        "region_4depth_name": "",
+        "x": 128.61740294556878,
+        "y": 35.81337908256427
+      }
+    ],
+    "expectedEligible": false
+  },
+  {
+    "query": "대구광역시 북구 칠곡중앙대로52길 32",
+    "candidate": {
+      "address": {
+        "address_name": "대구 북구 태전동 628-5",
+        "b_code": "2723012600",
+        "h_code": "2723073500",
+        "main_address_no": "628",
+        "mountain_yn": "N",
+        "region_1depth_name": "대구",
+        "region_2depth_name": "북구",
+        "region_3depth_h_name": "태전2동",
+        "region_3depth_name": "태전동",
+        "sub_address_no": "5",
+        "x": "128.548764112926",
+        "y": "35.9214932489939"
+      },
+      "address_name": "대구 북구 칠곡중앙대로52길 32",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "대구 북구 칠곡중앙대로52길 32",
+        "building_name": "태전2동 행정복지센터",
+        "main_building_no": "32",
+        "region_1depth_name": "대구",
+        "region_2depth_name": "북구",
+        "region_3depth_name": "태전동",
+        "road_name": "칠곡중앙대로52길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "128.548764112926",
+        "y": "35.9214932489939",
+        "zone_no": "41466"
+      },
+      "x": "128.548764112926",
+      "y": "35.9214932489939"
+    },
+    "regions": [
+      {
+        "region_type": "B",
+        "code": "2723012600",
+        "address_name": "대구광역시 북구 태전동",
+        "region_1depth_name": "대구광역시",
+        "region_2depth_name": "북구",
+        "region_3depth_name": "태전동",
+        "region_4depth_name": "",
+        "x": 128.54324982300997,
+        "y": 35.924099815267155
+      },
+      {
+        "region_type": "H",
+        "code": "2723073500",
+        "address_name": "대구광역시 북구 태전2동",
+        "region_1depth_name": "대구광역시",
+        "region_2depth_name": "북구",
+        "region_3depth_name": "태전2동",
+        "region_4depth_name": "",
+        "x": 128.54879144070634,
+        "y": 35.921480010095145
+      }
+    ],
+    "expectedEligible": false
+  }
+]

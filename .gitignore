@@ -1,0 +1,16 @@
+# 브라우저 자동검사 임시 파일
+.qa-browser/
+.qa-chrome/
+plating/qa-*.html
+qa-*.png
+qa-dom.txt
+
+# 로컬 환경 및 인증정보
+.env
+.env.*
+!.env.example
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
