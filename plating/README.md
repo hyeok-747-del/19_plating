@@ -15,6 +15,10 @@ HTML / CSS / Vanilla JavaScript로 만든 구독 서비스 과제입니다. 빌�
 
 ## 실행 및 화면 이동
 
+공개 웹사이트: https://hyeok-747-del.github.io/19_plating/
+
+GitHub Pages에서 카카오 지도를 사용하려면 해당 JavaScript 키의 SDK 도메인에 **`https://hyeok-747-del.github.io`**를 추가하세요. `/19_plating/` 경로는 등록값에서 제외합니다. 기존 Live Server 도메인은 함께 유지할 수 있습니다.
+
 VS Code에서 `plating` 폴더를 열고 `index.html`을 우클릭 → **Open with Live Server**를 선택하세요.
 
 HTML 파일 2개를 유지하면서 URL별로 화면을 분리했습니다. 한 화면에는 해당 페이지 콘텐츠만 표시됩니다.

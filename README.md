@@ -2,6 +2,10 @@
 
 매일의 건강을 플레이팅하다.
 
+웹사이트 주소: https://hyeok-747-del.github.io/19_plating/
+
+`main` 브랜치의 `plating/` 변경사항은 GitHub Actions를 통해 GitHub Pages로 자동 배포됩니다.
+
 HTML·CSS·Vanilla JavaScript로 만든 건강식 정기구독 웹앱입니다.
 
 - **첫 번째 페이지** `plating/index.html`: 월·수·금 식단 캘린더, 구독 신청·조회·수정·삭제(localStorage), 배송지역 확인
